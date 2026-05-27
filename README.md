@@ -12,7 +12,7 @@
 ---
 
 ### 🧠 About Me
-I'm a self-driven developer currently focused on **JavaScript, HTML, and CSS**, building practical projects to strengthen my skills and solve real problems.
+I'm a self-driven developer currently focused on **JavaScript, HTML, CSS, and React** building practical projects to strengthen my skills and solve real problems.
 
 I enjoy turning ideas into functional, user-friendly applications and continuously improving my code quality.
 
